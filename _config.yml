@@ -1,7 +1,7 @@
 name: Fookedonhonix
 favicon: null
-layout_spectrum: 0.24355535139329731
-typography_spectrum: 0.3505164301022887
+layout_spectrum: 1
+typography_spectrum: 0.24576
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.9306306936778128
+    - '#52534b'
+    - '#fffdfe'
+    - '#010600'
+    - '#c1c5c8'
+    - '#af7d74'
+  brandStrength: 0.875
   lightness: 0.28566369134932756
   saturation: 0.12082755588926375
   rhythmicContrast: 0.8069297869224101
