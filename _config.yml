@@ -1,0 +1,28 @@
+name: Fookedonhonix
+favicon: null
+layout_spectrum: 0.24355535139329731
+typography_spectrum: 0.3505164301022887
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9306306936778128
+  lightness: 0.28566369134932756
+  saturation: 0.12082755588926375
+  rhythmicContrast: 0.8069297869224101
+purpose: []
